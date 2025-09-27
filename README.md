@@ -22,8 +22,9 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-deones&lay
 ---
 
 ## 📌 Projetos em Destaque
-- 🔗 [CRUD de Produtos em React]([https://github.com/seuusuario/seu-repo](https://github.com/thiago-deones/arquitetura-aplicacao-WEB/tree/main/demo))  
-- 🔗 [Cadastro de Alunos com API]([https://github.com/seuusuario/seu-repo](https://github.com/thiago-deones/programacao-web/tree/main/api))  
+- 🔗 [CRUD de Produtos em React](https://github.com/thiago-deones/arquitetura-aplicacao-WEB/tree/main/demo)  
+- 🔗 [Cadastro de Alunos com API](https://github.com/thiago-deones/programacao-web/tree/main/api)  
+
 
 ---
 
@@ -40,12 +41,15 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-deones&lay
 ---
 
 ## 📫 Como me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/thiago-deones)  
-- 📧 Email: thiago.deones@email.com  
-- 📷 [Instagram](https://www.instagram.com/thiagodeones)  
-- 🐦 [X (Twitter)](https://x.com/TDeones)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-deones)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.deones@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagodeones)
+[![X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TDeones)
+
+
 
 ---
 
-✨ Sempre aprendendo, sempre evoluindo!
+💡 Código, aprendizado e crescimento contínuo.
 
