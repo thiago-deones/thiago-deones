@@ -1,3 +1,51 @@
-## Hi there 👋
+<!-- Cabeçalhos  
+https://github-readme-stats.vercel.app/api?username=thiago-deones&show_icons=true&theme=tokyonight
+https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-deones&layout=compact&langs_count=7&theme=tokyonight
+-->
 
-<!-- Cabeçalhos  https://github-readme-stats.vercel.app/api?username=thiago-deones&show_icons=true&theme=tokyonight -->
+# 👋 Olá, eu sou o Thiago Alves
+
+🎯 **Objetivo**: Desenvolvedor focado em **Backend** e **Banco de Dados**, em transição de carreira da área de Administração para Tecnologia.  
+📚 Atualmente no **5º semestre de ADS** e sempre em busca de novos aprendizados.  
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque
+- 🔗 [CRUD de Produtos em React]([https://github.com/seuusuario/seu-repo](https://github.com/thiago-deones/arquitetura-aplicacao-WEB/tree/main/demo))  
+- 🔗 [Cadastro de Alunos com API]([https://github.com/seuusuario/seu-repo](https://github.com/thiago-deones/programacao-web/tree/main/api))  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-deones&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-deones&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 Conquistas
+[![trophy](https://github-profile-trophy.vercel.app/?username=thiago-deones&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📫 Como me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/thiago-deones)  
+- 📧 Email: thiago.deones@email.com  
+- 📷 [Instagram](https://www.instagram.com/thiagodeones)  
+- 🐦 [X (Twitter)](https://x.com/TDeones)  
+
+---
+
+✨ Sempre aprendendo, sempre evoluindo!
+
