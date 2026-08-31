@@ -1,36 +1,43 @@
-<!-- Cabeçalhos  
-https://github-readme-stats.vercel.app/api?username=thiago-deones&show_icons=true&theme=tokyonight
-https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-deones&layout=compact&langs_count=7&theme=tokyonight
--->
+# 👋 Olá, eu sou o Thiago Deones
 
-# 👋 Olá, eu sou o Thiago 
+👨‍💻 **Desenvolvedor Backend** | Formado em **Análise e Desenvolvimento de Sistemas (ADS)**  
+💼 Bagagem prévia na área de Administração, unindo visão de negócios com solução de problemas em código.  
+🎯 Focado na construção de sistemas performáticos, APIs RESTful e modelagem de banco de dados.
 
-🎯 **Objetivo**: Desenvolvedor focado em **Backend** e **Banco de Dados**, em transição de carreira da área de Administração para Tecnologia.  
-📚 Atualmente no **5º semestre de ADS** e sempre em busca de novos aprendizados.  
+---
 
+### 🛠️ Tecnologias & Ferramentas
+
+**Linguagens & Frameworks**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Banco de Dados & Ferramentas**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-deones&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-deones&layout=compact&theme=tokyonight)
+### 📊 Estatísticas no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiago-deones&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-deones&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Linguagens mais usadas" />
+</div>
 
 ---
 
-## 📌 Projetos em Destaque
-- 🔗 [CRUD de Produtos em React](https://github.com/thiago-deones/arquitetura-aplicacao-WEB/tree/main/demo)  
-- 🔗 [Cadastro de Alunos com API](https://github.com/thiago-deones/programacao-web/tree/main/api)  
+### 🚀 Projetos em Destaque
 
-<!-- 
-## 🏆 Conquistas
-[![trophy](https://github-profile-trophy.vercel.app/?username=thiago-deones&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
--->
+- 🛒 **[CRUD de Produtos em React](https://github.com/thiago-deones/arquitetura-aplicacao-WEB/tree/main/demo)** — Aplicação web para gerenciamento e fluxo de produtos.
+- 🎓 **[Cadastro de Alunos com API](https://github.com/thiago-deones/programacao-web/tree/main/api)** — API desenvolvida para controle acadêmico e manipulação de dados.
+
 ---
+
+### 📬 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-deones)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.deones@email.com)
@@ -39,5 +46,4 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-deones&lay
 
 ---
 
-💡 Código, aprendizado e crescimento contínuo.
-
+💡 *Em busca contínua de evolução em arquitetura de software e sistemas distribuídos.*
